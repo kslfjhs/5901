@@ -1,5 +1,5 @@
 services:
-  areyouok:     #容器名称
+  5901:     #容器名称
     build: .
     ports:
       - 80:80
